@@ -1,7 +1,7 @@
 === Lingo ===
 
 Contributors: mindrun
-Tags: translate, translation, language, localization, international, i18n, global
+Tags: translate, translation, language, localization, international, i18n, global, admin, plugin, Post, posts, page
 Requires at Least: 3.5
 Tested Up To: 4.1.2
 Stable tag: 1.0.0
