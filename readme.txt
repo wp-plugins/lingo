@@ -2,8 +2,8 @@
 
 Contributors: mindrun
 Tags: translate, translation, language, localization, international, admin, plugin, Post, posts, page
-Requires at Least: 3.9
-Tested Up To: 4.1.2
+Requires at Least: 4.0
+Tested Up To: 4.2
 Stable tag: 1.0.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
