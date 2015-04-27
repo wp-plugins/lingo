@@ -1,6 +1,7 @@
 === Lingo ===
 
 Contributors: mindrun
+Donate link: http://goo.gl/FHOxcw
 Tags: translate, translation, language, localization, international, admin, plugin, Post, posts, page
 Requires at Least: 4.0
 Tested Up To: 4.2
